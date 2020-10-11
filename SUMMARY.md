@@ -1,6 +1,6 @@
 # Table of contents
 
-* [xuanji](README.md)
-* [Install](install.md)
-* [Get Started](get-started.md)
+* [什么是玄机？](README.md)
+* [安装](install.md)
+* [使用](get-started.md)
 
