@@ -21,7 +21,7 @@ default_values: # 默认的 chart values 配置 默认 空
   - 'redis.usePassword=false'
   - 'service.type=NodePort'
 branches: # 配置的分支 默认 *
-  - "*"trust me on this, I saved the world'
+  - "*"
 ```
 
 
